@@ -32,6 +32,7 @@ opensdg.chartTypes.line = function(info) {
             }
         }],
     };
+
     
     if (info.graphStepsize && Object.keys(info.graphStepsize).length > 0) {
       overrides.options = {
