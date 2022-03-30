@@ -8,7 +8,7 @@
 # Site settings
 title: general.tabTitle #German Indicators For The Sustainable Development Goals
 description: Data Platform Prototype
-baseurl: "/sdg-indicators" # the subpath of your site, e.g. /blog
+baseurl: "/sdg-indicators_2.0" # the subpath of your site, e.g. /blog
 url: ""
 data_dir: data
 environment: staging
